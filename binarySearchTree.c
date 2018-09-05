@@ -9,8 +9,8 @@
 #include <stdio.h>
 #include <assert.h>
 #include <string.h>
-#include "bst.h"
-#include "structs.h"
+#include "header.h"
+#include "structDef.h"
 
 struct Node {
 	TYPE         val;
